@@ -193,6 +193,7 @@
       "version-1.14.0-sms-notifications",
       "version-1.14.0-shipping-admin",
       "version-1.14.0-payments-discounts",
+      "version-1.14.0-csv-connector",
       "version-1.14.0-faqs"
     ],
     "Guidelines": [
